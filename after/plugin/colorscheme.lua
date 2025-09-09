@@ -1,2 +1,2 @@
-vim.cmd("colorscheme miasma")
+vim.cmd("colorscheme nord")
 
